@@ -1,0 +1,31 @@
+
+You can use the IntrusionLayout drawio file, which is in the same folder as this text file, to get a better idea of how to navigate rooms if you have difficulty with memory or navigating.
+
+Make sure you read the tutorial when it pops up, there's a scary amount of people who don't read the tutorial and then ask what they're supposed to do.
+The game ends when you survive until the timer counts down to 0.
+
+NOTE IF YOU'RE ON CHALLENGE MODE; If gremlin doesn't disappear after clicking flashlight - that's intentional, not a bug. The tutorial tells you what to do when that happens on challenge mode (move to the first room that the game started in which is regarded as the "safe room").
+
+
+
+
+
+And of course if you want to cheese the game
+How To Cheese The Game:
+
+Make sure to read the tutorial when it pops up (again, there are some people who seem to just ignore it).
+Stay by the front door so that you can immediately close it when it opens and only move to other rooms when you hear the bell to click the flashlight to scare off the gremlin.
+
+There is a 1 in 3 chance that on the Challenge difficulty, the gremlin will "chase" you so if you've read the tutorial, you should know to move to the "safe room" which is the very first room you're in (the room you spawn in essentially)
+
+Other things to note that making cheesing the game easier:
+
+- There is a 1 in 4 chance (25% chance) of you encountering the old man everytime you move to the following areas: room 2 (the room that you'd be moving forward to from hallway), room 3 (the room that you enter when clicking on the right arrow in hallway), and the hallway (chance is only rolled for this area when you move forward into it, or back away into hallway from room 3 or from the front door). Essentially the more you move into those areas, the more of a possibility it'll be that you will encounter the old man.
+
+- If you're looking for the gremlin (and you've looked in both room 1, which is the room that leads into the hallway and into the safe-room, and in room 3), and you believe it to be in room 2 but the old man is in the hall, don't freak out - there's a measure that prevents the old man from blocking your way if there's not enough time to find the gremlin which means that if you do encounter it, you can safely hide and quickly go into room 2 to scare off the gremlin after - be quick about it though.
+
+- The front door can remain open for 18 seconds on standard and 17 seconds on challenge so prioritize evading the other enemies. This makes the game especially cheesable.
+
+- The gremlin can spawn in 3 rooms; Room 1, Room 2, Room 3
+
+
